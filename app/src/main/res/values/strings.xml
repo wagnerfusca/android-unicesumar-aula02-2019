@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Aula 02</string>
+    <string name="msg_ola">Ola</string>
+    <string name="mn_sair">Sair</string>
+    <string name="mn_sair1">sair</string>
+</resources>
